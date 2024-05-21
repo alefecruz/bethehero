@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Port-logo" src="https://raw.githubusercontent.com/alefecrz/bethehero/368b59783dabe247dac90f61bcec1c453dd6afbe/assets/logo.svg" width="200px" />
+    <img alt="Port-logo" src="https://raw.githubusercontent.com/alefecruz/bethehero/f7d57dc2cda8661dc363e6d1f9c439ace14ed5de/assets/logo.svg" width="300px" />
 </h1>
 <div  align="center">
   <h3>
@@ -22,6 +22,18 @@
 </p>
 
 ## :rocket: Sobre o projeto
+
+<h1 align="center">
+    <img alt="Port-logo" src="https://raw.githubusercontent.com/alefecruz/bethehero/main/assets/web/1.png" width="500px" />
+    <img alt="Port-logo" src="https://raw.githubusercontent.com/alefecruz/bethehero/main/assets/web/2.png" width="500px" />
+    <img alt="Port-logo" src="https://raw.githubusercontent.com/alefecruz/bethehero/main/assets/web/3.png" width="500px" />
+    <img alt="Port-logo" src="https://raw.githubusercontent.com/alefecruz/bethehero/main/assets/web/4.png" width="500px" />
+    <img alt="Port-logo" src="https://raw.githubusercontent.com/alefecruz/bethehero/main/assets/mobile/1.png" width="200px" />
+    <img alt="Port-logo" src="https://raw.githubusercontent.com/alefecruz/bethehero/main/assets/mobile/2.png" width="200px" />
+    <img alt="Port-logo" src="https://raw.githubusercontent.com/alefecruz/bethehero/main/assets/mobile/3.png" width="200px" />
+    <img alt="Port-logo" src="https://raw.githubusercontent.com/alefecruz/bethehero/main/assets/mobile/4.png" width="200px" />
+    
+</h1>
 
 Landing Page criada em React.js, para divulgar informações, projetos e contatar. 
 
