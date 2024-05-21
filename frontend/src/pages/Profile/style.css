@@ -1,0 +1,86 @@
+.profile-conteiner {
+  width: 100%;
+  max-width: 1180px;
+  padding: 0 30px;
+  margin: 32px auto;
+}
+
+.profile-conteiner header {
+  display: flex;
+  align-items: center;
+} 
+
+.profile-conteiner header img {
+  height: 64px;
+}
+
+.profile-conteiner header span {
+  font-size: 20px;
+  margin-left: 24px;
+}
+
+.profile-conteiner header a {
+  width: 260px;
+  margin-left: auto;
+  margin-top: 0;
+}
+
+.profile-conteiner header button {
+  height: 60px;
+  width: 60px;
+  border-radius: 4px;
+  border: 1px solid #dcdce6;
+  background: transparent;
+  margin-left: 16px;
+  transition: border-color 0.2s;
+}
+
+.profile-conteiner header button:hover {
+  border-color: #999;
+}
+
+.profile-conteiner h1 {
+  margin: 80px 0 24px;
+}
+
+.profile-conteiner ul {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  grid-gap: 24px;
+  list-style: none;
+}
+
+.profile-conteiner ul li {
+  background: #fff;
+  padding: 24px;
+  border-radius: 8px;
+  position: relative;  
+}
+
+.profile-conteiner ul li strong {
+  display: block;
+  margin-bottom: 16px;
+  color: #41414d;
+}
+
+.profile-conteiner ul li p + strong{
+  margin-top: 32px;
+}
+
+.profile-conteiner ul li p {
+  color: #737380;
+  font-size: 16px;
+  line-height: 21px;
+}
+
+.profile-conteiner ul li button {
+  background: transparent;
+  position: absolute;
+  right: 24px;
+  top: 24px;
+  border: 0;
+}
+
+.profile-conteiner ul li button:hover {
+  opacity: 0.8;
+}
